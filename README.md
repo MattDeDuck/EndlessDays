@@ -8,7 +8,7 @@ Note: You need the `BepInEx_64` version for use with Potion Craft
 - Once installed run once to generate the config files and folders
 
 ### Endless Days installation
-- Download the latest version from the [releases page](https://github.com/MattDeDuck/Shelves/releases)
+- Download the latest version from the [releases page](https://github.com/MattDeDuck/EndlessDays/releases)
 - Unzip the folder
 - Copy the folder into `Potion Craft/BepInEx/plugins/`
 - Run the game
