@@ -18,8 +18,8 @@ Note: You need the `BepInEx_64` version for use with Potion Craft
 
 ### Images
 
-![Endless Day mode button](https://github.com/MattDeDuck/Shelves/blob/master/edScreen1.png)
+![Endless Day mode button](https://github.com/MattDeDuck/EndlessDays/blob/master/edScreen1.png)
 
-![Endless Day mode on](https://github.com/MattDeDuck/Shelves/blob/master/edScreen2.png)
+![Endless Day mode on](https://github.com/MattDeDuck/EndlessDays/blob/master/edScreen2.png)
 
-![Endless Day mode off](https://github.com/MattDeDuck/Shelves/blob/master/edScreen3.png)
+![Endless Day mode off](https://github.com/MattDeDuck/EndlessDays/blob/master/edScreen3.png)
